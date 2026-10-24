@@ -1,0 +1,234 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Raja Ampat",
+      "location": "Papua Barat Daya",
+      "category": "Pantai",
+      "bestTime": "Oktober - April",
+      "suitableFor": "Penyelam & pecinta laut",
+      "emoji": "🏝️",
+      "color": "#4DD0E1",
+      "rating": 4.9,
+      "publishedAt": "2025-10-10",
+      "description": "Gugusan ratusan pulau karang dengan laut jernih dan salah satu keanekaragaman hayati laut terkaya di dunia. Cocok untuk menyelam, snorkeling, dan menikmati panorama pulau dari ketinggian.",
+      "highlights": [
+        "Snorkeling dan diving di terumbu karang",
+        "Panorama gugusan pulau dari Pianemo",
+        "Beragam ikan dan biota laut"
+      ],
+      "tips": [
+        "Siapkan transportasi laut dan penginapan jauh hari.",
+        "Bawa tabir surya yang ramah terumbu karang.",
+        "Jangan menyentuh atau menginjak karang."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pantai Pink",
+      "location": "Lombok Timur, Nusa Tenggara Barat",
+      "category": "Pantai",
+      "bestTime": "April - Oktober",
+      "suitableFor": "Keluarga & fotografi",
+      "emoji": "🏖️",
+      "color": "#F48FB1",
+      "rating": 4.6,
+      "publishedAt": "2025-09-18",
+      "description": "Pantai dengan pasir berwarna kemerahan muda yang berasal dari serpihan karang. Airnya tenang dan menarik untuk berenang maupun berfoto.",
+      "highlights": [
+        "Pasir berwarna merah muda",
+        "Air laut tenang dan jernih",
+        "Cocok untuk bersantai di tepi pantai"
+      ],
+      "tips": [
+        "Datang pagi hari agar lebih sejuk dan sepi.",
+        "Bawa air minum dan topi.",
+        "Jaga kebersihan dan bawa pulang sampah Anda."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pulau Padar",
+      "location": "Taman Nasional Komodo, Nusa Tenggara Timur",
+      "category": "Pantai",
+      "bestTime": "April - Desember",
+      "suitableFor": "Petualang",
+      "emoji": "🏞️",
+      "color": "#81C784",
+      "rating": 4.8,
+      "publishedAt": "2025-08-25",
+      "description": "Pulau berbukit savana dengan teluk berpasir tiga warna. Dari puncak bukit, pengunjung dapat melihat pemandangan teluk yang menjadi ikon Labuan Bajo.",
+      "highlights": [
+        "Pendakian singkat menuju titik pandang",
+        "Teluk dengan pantai berbeda warna",
+        "Matahari terbit dan terbenam yang indah"
+      ],
+      "tips": [
+        "Gunakan sepatu yang nyaman untuk mendaki.",
+        "Mulai pendakian pagi atau sore agar tidak terlalu panas.",
+        "Ikuti arahan pemandu dan petugas taman nasional."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Gunung Bromo",
+      "location": "Probolinggo, Jawa Timur",
+      "category": "Gunung",
+      "bestTime": "April - Oktober",
+      "suitableFor": "Pemula & keluarga",
+      "emoji": "🌋",
+      "color": "#FFB74D",
+      "rating": 4.9,
+      "publishedAt": "2025-10-05",
+      "description": "Gunung berapi aktif di kawasan Taman Nasional Bromo Tengger Semeru. Terkenal dengan matahari terbit, lautan pasir, dan padang savana yang luas.",
+      "highlights": [
+        "Matahari terbit dari Penanjakan",
+        "Lautan pasir dan kawah Bromo",
+        "Padang savana dan bukit teletubbies"
+      ],
+      "tips": [
+        "Bawa jaket tebal karena udara sangat dingin saat dini hari.",
+        "Gunakan masker untuk melindungi dari debu.",
+        "Pantau status aktivitas gunung sebelum berangkat."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Gunung Rinjani",
+      "location": "Lombok, Nusa Tenggara Barat",
+      "category": "Gunung",
+      "bestTime": "April - November",
+      "suitableFor": "Pendaki berpengalaman",
+      "emoji": "⛰️",
+      "color": "#90A4AE",
+      "rating": 4.8,
+      "publishedAt": "2025-09-02",
+      "description": "Gunung dengan ketinggian sekitar 3.726 meter di atas permukaan laut. Terkenal dengan danau kawah Segara Anak dan jalur pendakian yang menantang.",
+      "highlights": [
+        "Danau kawah Segara Anak",
+        "Padang savana Sembalun",
+        "Panorama dari ketinggian"
+      ],
+      "tips": [
+        "Pastikan kondisi fisik prima dan pendakian terdaftar resmi.",
+        "Gunakan jasa pemandu dan porter lokal.",
+        "Periksa jadwal pembukaan jalur pendakian."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kota Tua Jakarta",
+      "location": "DKI Jakarta",
+      "category": "Budaya",
+      "bestTime": "Sepanjang tahun (pagi hari)",
+      "suitableFor": "Keluarga & pecinta sejarah",
+      "emoji": "🏛️",
+      "color": "#FFCC80",
+      "rating": 4.4,
+      "publishedAt": "2025-10-12",
+      "description": "Kawasan bersejarah dengan bangunan bergaya kolonial di sekitar Lapangan Fatahillah. Terdapat berbagai museum dan pusat kegiatan seni jalanan.",
+      "highlights": [
+        "Lapangan Fatahillah dan Museum Sejarah Jakarta",
+        "Sewa sepeda ontel keliling kawasan",
+        "Kafe dan kuliner di sekitar kawasan"
+      ],
+      "tips": [
+        "Datang pagi hari untuk menghindari panas dan keramaian.",
+        "Gunakan transportasi umum menuju kawasan.",
+        "Simpan barang berharga dengan aman."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Keraton Yogyakarta",
+      "location": "Daerah Istimewa Yogyakarta",
+      "category": "Budaya",
+      "bestTime": "Sepanjang tahun",
+      "suitableFor": "Pecinta budaya & sejarah",
+      "emoji": "👑",
+      "color": "#FFAB91",
+      "rating": 4.7,
+      "publishedAt": "2025-09-12",
+      "description": "Kompleks istana dan pusat budaya Jawa di jantung kota Yogyakarta. Pengunjung dapat melihat museum, arsitektur tradisional, dan pertunjukan seni.",
+      "highlights": [
+        "Arsitektur tradisional Jawa",
+        "Koleksi museum dan benda bersejarah",
+        "Pertunjukan gamelan dan tari pada jadwal tertentu"
+      ],
+      "tips": [
+        "Cek jam buka karena dapat berbeda pada hari tertentu.",
+        "Berpakaian sopan dan rapi.",
+        "Ikuti aturan pengambilan foto yang berlaku."
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Desa Penglipuran",
+      "location": "Bangli, Bali",
+      "category": "Budaya",
+      "bestTime": "April - Oktober",
+      "suitableFor": "Keluarga & wisata budaya",
+      "emoji": "🏡",
+      "color": "#AED581",
+      "rating": 4.6,
+      "publishedAt": "2025-08-18",
+      "description": "Desa adat yang tertata rapi dan bersih dengan rumah-rumah berarsitektur tradisional Bali. Dikenal sebagai contoh desa wisata yang menjaga lingkungan dan tradisi.",
+      "highlights": [
+        "Jalan utama desa yang asri dan tertata",
+        "Rumah adat dengan gerbang khas",
+        "Hutan bambu di sekitar desa"
+      ],
+      "tips": [
+        "Hormati aturan dan kebiasaan warga desa.",
+        "Jangan membuang sampah sembarangan.",
+        "Mintalah izin sebelum memotret warga."
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Danau Toba",
+      "location": "Sumatera Utara",
+      "category": "Alam",
+      "bestTime": "Mei - September",
+      "suitableFor": "Keluarga & pecinta alam",
+      "emoji": "🌊",
+      "color": "#64B5F6",
+      "rating": 4.8,
+      "publishedAt": "2025-10-08",
+      "description": "Danau vulkanik terbesar di Asia Tenggara dengan Pulau Samosir di tengahnya. Udaranya sejuk dengan pemandangan perbukitan dan budaya Batak yang kaya.",
+      "highlights": [
+        "Pulau Samosir di tengah danau",
+        "Pemandangan perbukitan dan air danau",
+        "Kerajinan dan kuliner khas setempat"
+      ],
+      "tips": [
+        "Sewa kapal atau sepeda motor untuk berkeliling Samosir.",
+        "Bawa pakaian hangat untuk malam hari.",
+        "Hormati adat dan budaya masyarakat setempat."
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Danau Kelimutu",
+      "location": "Ende, Nusa Tenggara Timur",
+      "category": "Alam",
+      "bestTime": "Juni - September",
+      "suitableFor": "Petualang & fotografi",
+      "emoji": "🌈",
+      "color": "#4DB6AC",
+      "rating": 4.7,
+      "publishedAt": "2025-09-25",
+      "description": "Tiga danau kawah di puncak Gunung Kelimutu, Flores, yang warna airnya dapat berubah-ubah. Pemandangan matahari terbit di sini sangat terkenal.",
+      "highlights": [
+        "Tiga danau kawah dengan warna air berbeda",
+        "Matahari terbit dari titik pandang puncak",
+        "Berada di dalam kawasan taman nasional"
+      ],
+      "tips": [
+        "Berangkat dini hari untuk mengejar matahari terbit.",
+        "Bawa pakaian hangat dan senter.",
+        "Tetap berada di jalur dan jaga keselamatan di tepi kawah."
+      ]
+    }
+  ]
+}
